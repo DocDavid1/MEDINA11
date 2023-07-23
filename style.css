@@ -81,3 +81,16 @@ footer img {
   position: relative;
   z-index: 10;
 }
+input[type="email" i] {
+  padding: 1px 2px;
+  background-color: #ffffff36;
+}input[type="citizen" i] {
+  padding: 1px 2px;
+  background-color: #ffffff36;
+}input[type="text" i] {
+  padding: 1px 2px;
+  background-color: #ffffff36;
+}
+.textarea[type="message" i] {
+  background-color: #ffffff36;
+}
